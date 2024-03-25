@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[232],{BKVU:function(n,s,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/versions",function(){return _("HlzU")}])},HlzU:function(n,s,_){"use strict";_.r(s);var o=_("Qc6s");s.default=Object(o.a)("/versions/latest/")}},[["BKVU",1,0,2,26]]]);
